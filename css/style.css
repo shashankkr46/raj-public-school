@@ -554,6 +554,7 @@ button:focus {
   z-index: 1;
   min-height: 392px;
   padding-top: 0 !important; }
+  
   .banner_area .banner_inner {
     position: relative;
     overflow: hidden;
@@ -3394,6 +3395,11 @@ h6 {
         .footer-area .footer-bottom .footer-social {
           text-align: left;
           margin-top: 20px; } }
+      .mission-div
+      {
+        margin-top: 7rem;
+        margin-bottom:7rem;
+      }
 
 /*---------------------------------------------------- */
 

@@ -50,10 +50,12 @@
 							<li class="nav-item active"><a class="nav-link" href=".">Home</a></li>
 							<li class="nav-item submenu dropdown">
                                 <a href="about-us.php" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
-                                    aria-haspopup="true" aria-expanded="false">About Us</a>
+                                    aria-haspopup="true" aria-expanded="false">About</a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="about-us.php">Overview</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="single-blog.php">Vision and Misson</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="about-us.php">About School</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="about-us.php">Principal Message</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="about-us.php">Director Message</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="vision-mission.php">Vision and Misson</a></li>
                                     <li class="nav-item"><a class="nav-link" href="single-blog.php">Facilities</a></li>
                                     <li class="nav-item"><a class="nav-link" href="single-blog.php">Infrastructure</a></li>
                                 </ul>
