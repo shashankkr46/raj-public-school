@@ -1,4 +1,5 @@
-     <?php include 'templates/header.php'; ?>
+<?php $page_title = "About Us"; ?>
+<?php include 'templates/header.php'; ?>
 
     <!--================ End Header Menu Area =================-->
 
@@ -11,13 +12,8 @@
                     <div class="col-lg-6">
                         <div class="banner_content text-center">
                             <h2>About Us</h2>
-                            <p>In the history of modern astronomy, there is probably no one greater leap forward than
-                                the
-                                building and launch of the space telescope known as the Hubble.</p>
-                            <div class="page_link">
-                                <a href="index.php">Home</a>
-                                <a href="about-us.php">About</a>
-                            </div>
+                           
+                            
                         </div>
                     </div>
                 </div>
@@ -35,9 +31,9 @@
                 </div>
 
                 <div class="offset-lg-1 col-lg-5">
-                    <div class="dpmt_right">
+                    <div class="dpmt_right overview-para">
                         <h1 class="font-weight-normal">Who We Are</h1>
-                        <p> Raj Public School , patna, is a 10 + 2 private school, affiliated to CBSE. It started  with 500 students and 18 teachers. The school is managed by Raj College Managing Committee through Regional Directorate, patna , with goodwill and cooperation of local intelligentsia and LMC. The school is located in lal  bazar, the heart of patna  city with the prime objective to impart education to each and every section of the society.
+                        <p> Raj public school , patna, is a 10 + 2 private school, affiliated to CBSE. It started  with 500 students and 18 teachers. The school is managed by Raj College Managing Committee through Regional Directorate, patna , with goodwill and cooperation of local intelligentsia and LMC. The school is located in lal  bazar, the heart of patna  city with the prime objective to impart education to each and every section of the society.
                         </p>
                         <p> Raj  is the largest Non-Governmental Educational Organization in the country, managing over 700 educational institutions. Raj  institutions have rendered a unique service, in not only dispelling ignorance and illiteracy but also in producing patriots, freedom-fighters, social reformers, intellectuals, thinkers, legal luminaries, doctors, engineers and scientists of unparalleled merit, integrity and caliber.</p>
                         <a href="#" class="primary-btn text-uppercase">Explore More</a>

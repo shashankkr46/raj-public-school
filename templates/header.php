@@ -16,7 +16,7 @@
 	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
 	<link rel="stylesheet" href="vendors/animate-css/animate.css">
 	<!-- main css -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/css-new.css">
 </head>
 
 <body>
@@ -24,15 +24,6 @@
 	<!--================ Start Header Menu Area =================-->
 	<header class="header_area">
 		<div class="main_menu">
-			<div class="search_input" id="search_input_box">
-				<div class="container">
-					<form class="d-flex justify-content-between" method="" action="">
-						<input type="text" class="form-control" id="search_input" placeholder="Search Here">
-						<button type="submit" class="btn"></button>
-						<span class="lnr lnr-cross" id="close_search" title="Close Search"></span>
-					</form>
-				</div>
-			</div>
 
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
@@ -47,28 +38,19 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav ml-auto">
-							<li class="nav-item active"><a class="nav-link" href=".">Home</a></li>
+							<li class="nav-item"><a class="nav-link" href=".">Home</a></li>
 							<li class="nav-item submenu dropdown">
                                 <a href="about-us.php" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false">About</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="about-us.php">About School</a></li>
-                                     <li class="nav-item"><a class="nav-link" href="about-us.php">Principal Message</a></li>
-                                     <li class="nav-item"><a class="nav-link" href="about-us.php">Director Message</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="principal.php">Principal Message</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="director.php">Director Message</a></li>
                                     <li class="nav-item"><a class="nav-link" href="vision-mission.php">Vision and Misson</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="single-blog.php">Facilities</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="single-blog.php">Infrastructure</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="facility.php">Facilities</a></li>
                                 </ul>
                             </li>
-							<li class="nav-item submenu dropdown">
-								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-								 aria-expanded="false">Schools</a>
-								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="#">Courses</a></li>
-									<li class="nav-item"><a class="nav-link" href="#">Students</a></li>
-									<li class="nav-item"><a class="nav-link" href="#">Teachers</a></li>
-								</ul>
-							</li>
+							
 							<!-- <li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Blog</a>
@@ -77,8 +59,18 @@
 									<li class="nav-item"><a class="nav-link" href="#">Blog Details</a></li>
 								</ul>
 							</li> -->
-							<li class="nav-item"><a class="nav-link" href="#">Events</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+							<li class="nav-item submenu dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                                    aria-haspopup="true" aria-expanded="false">Admissions</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item"><a class="nav-link" href="criteria.php">Eligibility Criteria</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="apply.php">How To Apply</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="apply.php">Application Form</a></li>
+
+                                </ul>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="news.php">News</a></li>
+							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link search" id="search">
 									<i class="lnr lnr-magnifier"></i>

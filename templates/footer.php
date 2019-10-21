@@ -2,13 +2,24 @@
 	<footer class="footer-area section_gap_new">
 		<div class="container">
 			<div class="row footer-bottom d-flex justify-content-between">
-				<p class="col-lg-8 col-sm-12 footer-text m-0 text-white">Copyright &copy; 2019 All rights reserved</p>
+				<p class="col-lg-6 col-sm-12 footer-text m-0 text-white overview-para">Copyright &copy; 2019 All rights reserved</p>
 				<!-- <div class="col-lg-4 col-sm-12 footer-social">
 					<a href="#"><i class="fa fa-facebook"></i></a>
 					<a href="#"><i class="fa fa-twitter"></i></a>
 					<a href="#"><i class="fa fa-dribbble"></i></a>
 					<a href="#"><i class="fa fa-behance"></i></a>
 				</div> -->
+				<div class="col-lg-6">
+					<p class="text-white pl-4">Quick Links</p>
+					<ul class="footer-quick-links">
+						<li><a href="index.php" class="text-white">Home</a></li>
+						<li><a href="about-us.php" class="text-white">About</a></li>
+						<li><a href="criteria.php" class="text-white">Admissions</a></li>
+						<li><a href="news.php" class="text-white">News</a></li>
+						<li><a href="contact.php" class="text-white">Contact</a></li>
+					</ul>
+				</div>
+
 			</div>
 		</div>
 	</footer>
