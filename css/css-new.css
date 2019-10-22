@@ -3559,9 +3559,13 @@ h1 {
 }
 .file-box
 {
-  margin-top: 0.8rem;
+  margin-top: 0.4rem;
 }
+.file-box-1
+{
+    margin-top: 0.2rem;
 
+}
 
 /*---------------------------------------------------- */
 
