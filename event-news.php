@@ -60,9 +60,9 @@
                 
             </div>
             <div class="row sport-gallery">
-                    <div class="col-lg-4 single_event"><img src="img/event-1.jpg" class="img-fluid"></div>
-                    <div class="col-lg-4 single_event"><img src="img/event-2.jpg" class="img-fluid"></div>
-                    <div class="col-lg-4 single_event"><img src="img/event-3.jpg" class="img-fluid"></div>
+                    <div class="col-lg-4 single_event event_thumb"><img src="img/event-1.jpg" class="img-fluid img-thumbnail"></div>
+                    <div class="col-lg-4 single_event event_thumb"><img src="img/event-2.jpg" class="img-fluid img-thumbnail"></div>
+                    <div class="col-lg-4 single_event event_thumb"><img src="img/event-3.jpg" class="img-fluid img-thumbnail"></div>
             </div>
         </div>
     </section>

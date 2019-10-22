@@ -3529,6 +3529,38 @@ h1 {
   margin-top: 6rem;
   margin-bottom: 5rem;
 }
+.career
+{
+  font-weight: normal;
+  font-family: arial;
+  font-size: 2em;
+}
+.reg-form-heading
+{
+  padding-left: 3.7rem;
+}
+.reg-form-student-heading
+{
+  font-size: 1.5em;
+  font-family: arial;
+  font-weight: normal;
+  color: black;
+  background-color: #F2F3F4;
+}
+.label-text
+{
+  font-family: arial;
+  color: black;
+  font-weight:lighter;
+}
+.input-box
+{
+  margin-top: 0.1rem;
+}
+.file-box
+{
+  margin-top: 0.8rem;
+}
 
 
 /*---------------------------------------------------- */

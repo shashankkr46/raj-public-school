@@ -65,11 +65,14 @@
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="criteria.php">Eligibility Criteria</a></li>
                                      <li class="nav-item"><a class="nav-link" href="apply.php">How To Apply</a></li>
-                                     <li class="nav-item"><a class="nav-link" href="apply.php">Application Form</a></li>
+                                     <li class="nav-item"><a class="nav-link" href="application-form.php">Application Form</a></li>
 
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="news.php">News</a></li>
+                            <li class="nav-item"><a class="nav-link" href="events.php">Events</a></li>
+
+                            <li class="nav-item"><a class="nav-link" href="careers.php">Careers</a></li>
 							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link search" id="search">
